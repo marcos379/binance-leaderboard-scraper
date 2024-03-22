@@ -1,2 +1,5 @@
-# binance-leaderboard-scraper
-Bypass Login Autentication and get latest positions of any trader from Binance Leaderboard in REAL TIME
+This script is able to bypass the login authentication process and scrape positions from any trader on the Binance Leaderboard.
+
+Contact me to get access. Email: bypassleaderboard@proton.me
+
+Price - $500 per API
