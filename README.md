@@ -2,4 +2,4 @@ This script is able to bypass the login authentication process and scrape positi
 
 Contact me to get access. Email: bypassleaderboard@proton.me
 
-Price - $500 per API
+Price - $500 API
